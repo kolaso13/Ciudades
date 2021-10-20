@@ -1,0 +1,16 @@
+C:\Users\Equipo\Adrian\Ciudades\bin\Debug\net5.0\Ciudades.exe
+C:\Users\Equipo\Adrian\Ciudades\bin\Debug\net5.0\Ciudades.deps.json
+C:\Users\Equipo\Adrian\Ciudades\bin\Debug\net5.0\Ciudades.runtimeconfig.json
+C:\Users\Equipo\Adrian\Ciudades\bin\Debug\net5.0\Ciudades.runtimeconfig.dev.json
+C:\Users\Equipo\Adrian\Ciudades\bin\Debug\net5.0\Ciudades.dll
+C:\Users\Equipo\Adrian\Ciudades\bin\Debug\net5.0\ref\Ciudades.dll
+C:\Users\Equipo\Adrian\Ciudades\bin\Debug\net5.0\Ciudades.pdb
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.csproj.AssemblyReference.cache
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.AssemblyInfoInputs.cache
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.AssemblyInfo.cs
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.dll
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\ref\Ciudades.dll
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.pdb
+C:\Users\Equipo\Adrian\Ciudades\obj\Debug\net5.0\Ciudades.genruntimeconfig.cache
